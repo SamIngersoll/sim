@@ -1,0 +1,5 @@
+# pendulum #
+
+- run `pendulum_euler.m` or `pendulum_ode.m` to start simulation
+- edit `pendulum_variables.m` to change parameters of simulation
+- peruse `pendulu
